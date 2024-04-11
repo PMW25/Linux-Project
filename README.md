@@ -13,12 +13,9 @@ Use Linux commands to manage file permissions. Determine if the permissions matc
 
 ### Tools Used
 
+-Suricata
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+## Project
 
-Every screenshot should have some text explaining what the screenshot is about.
+[File permissions in Linux.pdf](https://github.com/PMW25/Linux-Project/files/14941847/File.permissions.in.Linux.pdf)
 
-Example below.
-
-*Ref 1: Network Diagram*
